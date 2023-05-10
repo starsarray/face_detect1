@@ -10,7 +10,7 @@ OpenCV 库
 
 ## 作者
 
-挨踢魔君(dj@itmojun.com)
+starsarray(945467963@qq.com)
 
 ## 日期
 
