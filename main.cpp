@@ -23,5 +23,6 @@ int main()
 	std::cout << "xu"<< std::endl;
 	std::cout << "hang"<< std::endl;
     std::cout << "家都没了" << std::endl;
+	std::cout << "太6了" << std::endl;
 	return 0;
 }
