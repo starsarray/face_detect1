@@ -21,7 +21,7 @@ int main()
 	std::cout << "xiao"<< std::endl;
 	std::cout << "hang"<< std::endl;
 	std::cout << "xu"<< std::endl;
-
+	std::cout << "hang"<< std::endl;
 
 	return 0;
 }
