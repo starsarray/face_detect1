@@ -18,8 +18,10 @@ int main()
 	std::cout << mat.get_d() << std::endl;
 
 	std::cout << "end..." << std::endl;
-	std::cout << "家都没了 还在这里 嗨 你好" << std::endl;
-
-
+	std::cout << "xiao"<< std::endl;
+	std::cout << "hang"<< std::endl;
+	std::cout << "xu"<< std::endl;
+	std::cout << "hang"<< std::endl;
+    std::cout << "家都没了" << std::endl;
 	return 0;
 }
