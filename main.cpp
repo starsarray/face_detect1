@@ -24,5 +24,6 @@ int main()
 	std::cout << "hang"<< std::endl;
     std::cout << "家都没了" << std::endl;
 	std::cout << "太6了" << std::endl;
+	std::cout << "QAQ" << std::endl;
 	return 0;
 }
